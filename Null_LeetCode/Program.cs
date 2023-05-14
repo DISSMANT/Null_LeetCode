@@ -6,7 +6,7 @@ namespace Null_LeetCode
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(new ValidAnagram0242().IsAnagram("anagram", "nagaram"));
+            Console.WriteLine(new ValidParantheses0020().IsValid("{()()()[]}"));
         }
     }
 }
