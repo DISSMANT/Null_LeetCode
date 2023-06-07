@@ -39,15 +39,19 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Container With Most Water - 0011.cs" />
         <Compile Include="Contains Duplicate - 0217.cs" />
         <Compile Include="Group Anagrams - 0049.cs" />
-        <Compile Include="Longest Consecutive Sequence.cs" />
+        <Compile Include="Longest Consecutive Sequence - 0128.cs" />
         <Compile Include="Product of Array Except Self - 0238.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="ThreeSum - 0015.cs" />
         <Compile Include="Top K Frequent Elements - 0347.cs" />
         <Compile Include="Two Sum - 0001.cs" />
+        <Compile Include="Two Sum - 0167.cs" />
         <Compile Include="Valid Anagram - 0242.cs" />
+        <Compile Include="Valid Palindrome - 0125.cs" />
         <Compile Include="Valid Parantheses - 0020.cs" />
         <Compile Include="Valid Sudoku - 0036.cs" />
     </ItemGroup>
