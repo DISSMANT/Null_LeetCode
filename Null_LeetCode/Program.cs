@@ -6,7 +6,9 @@ namespace Null_LeetCode
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(new CarFleet0853().CarFleet(12, new[] { 10, 8, 0, 5, 3 }, new[] { 2, 4, 1, 1, 3 }));
+            Console.WriteLine(new SearchATwoDMatrix0074().SearchMatrix(new int[][] {new []{1,3,5,7},
+                                                                                    new []{10,11,16,20},
+                                                                                    new []{23,30,34,60}}, 3));
 
             // for (int x = 0; x < t.Length; x++)
             // {
