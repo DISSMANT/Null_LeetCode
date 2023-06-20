@@ -61,6 +61,7 @@
         <Compile Include="Time Based Key-Value Store.cs" />
         <Compile Include="Top K Frequent Elements - 0347.cs" />
         <Compile Include="Trapping Rain Water - 0042.cs" />
+        <Compile Include="Two Sorted Arrays Median - 0004.cs" />
         <Compile Include="Two Sum - 0001.cs" />
         <Compile Include="Two Sum - 0167.cs" />
         <Compile Include="Valid Anagram - 0242.cs" />
