@@ -39,6 +39,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Best Time to Buy and Sell Stock - 0121.cs" />
         <Compile Include="Binary Search - 0704.cs" />
         <Compile Include="CarFleet - 0853.cs" />
         <Compile Include="Container With Most Water - 0011.cs" />

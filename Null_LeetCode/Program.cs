@@ -6,7 +6,7 @@ namespace Null_LeetCode
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(new TwoSortedArraysMedian0004().FindMedianSortedArrays(new int[] {1, 3}, new int[] {2}));
+            Console.WriteLine(new BestTimeToBuyAndSellStock().MaxProfit(new int[] {2, 1, 4}));
         }
     }
 }
