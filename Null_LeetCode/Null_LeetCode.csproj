@@ -46,8 +46,10 @@
         <Compile Include="Product of Array Except Self - 0238.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Stack Min - 0155.cs" />
         <Compile Include="ThreeSum - 0015.cs" />
         <Compile Include="Top K Frequent Elements - 0347.cs" />
+        <Compile Include="Trapping Rain Water - 0042.cs" />
         <Compile Include="Two Sum - 0001.cs" />
         <Compile Include="Two Sum - 0167.cs" />
         <Compile Include="Valid Anagram - 0242.cs" />
