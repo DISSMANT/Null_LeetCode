@@ -43,6 +43,7 @@
         <Compile Include="Contains Duplicate - 0217.cs" />
         <Compile Include="Group Anagrams - 0049.cs" />
         <Compile Include="Longest Consecutive Sequence - 0128.cs" />
+        <Compile Include="Permutation in String - 0567.cs" />
         <Compile Include="Product of Array Except Self - 0238.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
