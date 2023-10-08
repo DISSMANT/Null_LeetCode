@@ -52,6 +52,7 @@
         <Compile Include="Koko Eating Bananas - 0875.cs" />
         <Compile Include="Largest Rectangle in Histogram - 0084.cs" />
         <Compile Include="Longest Consecutive Sequence - 0128.cs" />
+        <Compile Include="Minimum Window Substring - 0076.cs" />
         <Compile Include="Permutation in String - 0567.cs" />
         <Compile Include="Product of Array Except Self - 0238.cs" />
         <Compile Include="Program.cs" />
