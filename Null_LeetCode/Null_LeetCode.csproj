@@ -57,6 +57,7 @@
         <Compile Include="Product of Array Except Self - 0238.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Reorder List - 0143.cs" />
         <Compile Include="Reversed Linked List - 0206.cs" />
         <Compile Include="Search a TwoD matrix - 0074.cs" />
         <Compile Include="Search in Rotated Sorted Array - 0033.cs" />
