@@ -39,11 +39,13 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Add Two Numbers - 0002.cs" />
         <Compile Include="Best Time to Buy and Sell Stock - 0121.cs" />
         <Compile Include="Binary Search - 0704.cs" />
         <Compile Include="CarFleet - 0853.cs" />
         <Compile Include="Container With Most Water - 0011.cs" />
         <Compile Include="Contains Duplicate - 0217.cs" />
+        <Compile Include="Copy List with Random Pointer - 0138.cs" />
         <Compile Include="Daily Temperatures - 0739.cs" />
         <Compile Include="Evaluate Reverse Notation - 0150.cs" />
         <Compile Include="Find Minimum in Rotated Sorted Array - 0153.cs" />
