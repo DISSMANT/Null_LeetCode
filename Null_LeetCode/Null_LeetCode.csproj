@@ -49,6 +49,7 @@
         <Compile Include="Daily Temperatures - 0739.cs" />
         <Compile Include="Evaluate Reverse Notation - 0150.cs" />
         <Compile Include="Find Minimum in Rotated Sorted Array - 0153.cs" />
+        <Compile Include="Find the Duplicate Number - 0287.cs" />
         <Compile Include="Generate Parentheses - 0022.cs" />
         <Compile Include="Group Anagrams - 0049.cs" />
         <Compile Include="Koko Eating Bananas - 0875.cs" />
